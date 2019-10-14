@@ -1,6 +1,6 @@
 ##NAME: JAIME GARCIA
 ##ASSIGNMENT 2
-homework2 = read.csv("/Users/jaimegarcia/Desktop/DESKTOP_101/code/R_code/SMU/Assigments/Assigment2/Homework2.csv")
+homework2 = read.csv("Homework2.csv")
 str(homework2)
 # 16 var, 234 obs
 summary(homework2)
